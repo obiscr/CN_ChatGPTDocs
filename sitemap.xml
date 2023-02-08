@@ -11,6 +11,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://chatgpt.cn.obiscr.com/donate/</loc>
+         <lastmod>2023-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://chatgpt.cn.obiscr.com/faq/</loc>
          <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
@@ -37,6 +42,11 @@
     </url>
     <url>
          <loc>https://chatgpt.cn.obiscr.com/blog/</loc>
+         <lastmod>2023-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chatgpt.cn.obiscr.com/blog/posts/2023/How-to-add-wechat-group/</loc>
          <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
