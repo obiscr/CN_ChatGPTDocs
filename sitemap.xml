@@ -2,72 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://chatgpt.cn.obiscr.com/</loc>
-         <lastmod>2023-03-05</lastmod>
+         <lastmod>2023-03-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chatgpt.cn.obiscr.com/build-from-source/</loc>
-         <lastmod>2023-03-05</lastmod>
+         <lastmod>2023-03-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chatgpt.cn.obiscr.com/donate/</loc>
-         <lastmod>2023-03-05</lastmod>
+         <lastmod>2023-03-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chatgpt.cn.obiscr.com/faq/</loc>
-         <lastmod>2023-03-05</lastmod>
+         <lastmod>2023-03-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chatgpt.cn.obiscr.com/getting-started/</loc>
-         <lastmod>2023-03-05</lastmod>
+         <lastmod>2023-03-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chatgpt.cn.obiscr.com/history/</loc>
-         <lastmod>2023-03-05</lastmod>
+         <lastmod>2023-03-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chatgpt.cn.obiscr.com/license/</loc>
-         <lastmod>2023-03-05</lastmod>
+         <lastmod>2023-03-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chatgpt.cn.obiscr.com/settings/</loc>
-         <lastmod>2023-03-05</lastmod>
+         <lastmod>2023-03-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chatgpt.cn.obiscr.com/something/</loc>
-         <lastmod>2023-03-05</lastmod>
+         <lastmod>2023-03-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chatgpt.cn.obiscr.com/usage/</loc>
-         <lastmod>2023-03-05</lastmod>
+         <lastmod>2023-03-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chatgpt.cn.obiscr.com/blog/</loc>
-         <lastmod>2023-03-05</lastmod>
+         <lastmod>2023-03-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chatgpt.cn.obiscr.com/blog/posts/2023/GPT-3.5-Turbo-is-available/</loc>
-         <lastmod>2023-03-05</lastmod>
+         <lastmod>2023-03-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chatgpt.cn.obiscr.com/blog/posts/2023/How-to-get-api-key/</loc>
-         <lastmod>2023-03-05</lastmod>
+         <lastmod>2023-03-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chatgpt.cn.obiscr.com/blog/posts/2023/How-to-join-wechat-group/</loc>
-         <lastmod>2023-03-05</lastmod>
+         <lastmod>2023-03-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chatgpt.cn.obiscr.com/blog/posts/2023/Online-ChatGPT-is-now-back/</loc>
+         <lastmod>2023-03-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
