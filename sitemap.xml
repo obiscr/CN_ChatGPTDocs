@@ -146,6 +146,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://chatgpt.cn.obiscr.com/settings/account/</loc>
+         <lastmod>2023-04-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://chatgpt.cn.obiscr.com/settings/chatgpt-settings/</loc>
          <lastmod>2023-04-18</lastmod>
          <changefreq>daily</changefreq>
